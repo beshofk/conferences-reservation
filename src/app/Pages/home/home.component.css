@@ -1,0 +1,19 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
+
+.hero{
+  background-image: url('/assets/jesus.jpeg') !important;
+  background-size: cover;
+  background-position: center center;
+}
+.title{
+  color: #05f685;
+  font-size: 300%;
+}
+.subtitle{
+  color: #d7cd0d;
+  font-size: 250%;
+}
+.button{
+  font-size:200%;
+  position: inherit;
+}
